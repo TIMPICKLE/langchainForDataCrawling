@@ -1,0 +1,2 @@
+# langchainForDataCrawling
+use openAI langchain
